@@ -1,0 +1,4 @@
+﻿  file_binary_class2.c
+C:\Users\achiy\source\repos\file_binary_class2\file_binary_class2\file_binary_class2.c(41,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\achiy\source\repos\file_binary_class2\file_binary_class2\file_binary_class2.c(91,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  file_binary_class2.vcxproj -> C:\Users\achiy\source\repos\file_binary_class2\x64\Debug\file_binary_class2.exe
